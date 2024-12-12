@@ -14,8 +14,11 @@ The Haar Cascade algorithm was employed for real-time face detection in video fe
 The CNN model was integrated into the pipeline to identify detected faces as specific group members.
 Functionality:
 
-### Input: Live camera feed or static images containing group members.
-### Output: Real-time identification of group members with bounding boxes and names overlaid on their faces.
+### Input: 
+Live camera feed or static images containing group members.
+
+### Output: 
+Real-time identification of group members with bounding boxes and names overlaid on their faces.
 Tools and Technologies Used:
 
 Python for implementation.
