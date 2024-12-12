@@ -34,9 +34,11 @@ Personalized group recognition for attendance systems, access control, or social
 A foundation for more advanced facial recognition systems in custom environments.
 
 
+*Contributors :*
 
-Contributors :
-Mohammed Istishad Alam Tishad 
-Touhid Alam
-Abir Boktiar
-Sumiya Sarkar Shimla
+    Mohammed Istishad Alam Tishad (CSE,AIUB)
+    Touhid Alam
+    Abir Boktiar
+    Sumiya Sarkar Shimla
+
+
