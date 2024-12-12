@@ -37,8 +37,8 @@ A foundation for more advanced facial recognition systems in custom environments
 *Contributors :*
 
     Mohammed Istishad Alam Tishad (CSE,AIUB)
-    Touhid Alam
-    Abir Boktiar
-    Sumiya Sarkar Shimla
+    Touhid Alam (CSE,AIUB)
+    Abir Boktiar (CSE,AIUB)
+    Sumaiya Sarkar Shimla (CSE,AIUB)
 
 
